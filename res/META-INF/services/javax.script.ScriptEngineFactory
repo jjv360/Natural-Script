@@ -1,0 +1,2 @@
+# This registers the NLP script processor with the Java scripting system
+com.jjv360.nlp.script.NLPFactory
